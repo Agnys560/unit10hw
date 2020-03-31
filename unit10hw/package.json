@@ -1,0 +1,29 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP testing for unit 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agnys560/unit10hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agnys560/unit10hw/issues"
+  },
+  "homepage": "https://github.com/Agnys560/unit10hw#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
